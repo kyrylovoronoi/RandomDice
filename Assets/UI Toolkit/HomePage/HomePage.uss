@@ -13,7 +13,6 @@
   font-size: 56px;
   -unity-font-style: bold;
   color: #fff;
-  margin-bottom: 20px;
 }
 
 .play-btn {
