@@ -1,0 +1,6 @@
+Label {
+  font-size: 32px;
+  color: #000;
+  margin-top: 20px;
+  align-self: center;
+}

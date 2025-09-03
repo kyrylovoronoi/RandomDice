@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+  <ui:Style src="./Title.uss"/>
+
+  <ui:VisualElement name="root" class="root">
+    <ui:Label name="title" text="Battle" />
+  </ui:VisualElement>
+</ui:UXML>
